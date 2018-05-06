@@ -8,6 +8,7 @@
     <PackageId>PalmettoSoft.StructureMap.AutoMocking.Moq</PackageId>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <NeutralLanguage></NeutralLanguage>
+    <PackageProjectUrl>https://github.com/ChuckBryan/PalmettoSoft.StructureMap.AutoMocking.Moq</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
