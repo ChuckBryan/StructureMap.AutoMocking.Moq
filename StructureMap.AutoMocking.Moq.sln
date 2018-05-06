@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwampyFox.StructureMap.AutoMocking.Moq", "StructureMap.AutoMocking.Moq\SwampyFox.StructureMap.AutoMocking.Moq.csproj", "{0FF37DCD-B167-4634-8A3D-FFA5B39FC419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructureMap.AutoMocking.Moq", "StructureMap.AutoMocking.Moq\StructureMap.AutoMocking.Moq.csproj", "{0FF37DCD-B167-4634-8A3D-FFA5B39FC419}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A0D60E43-72AB-4BE5-9353-955B0C7434B3}"
 	ProjectSection(SolutionItems) = preProject
