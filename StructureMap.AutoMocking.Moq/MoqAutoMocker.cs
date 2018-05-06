@@ -1,6 +1,6 @@
-﻿namespace PalmettoSoft.StructureMap.AutoMocking.Moq
+﻿namespace StructureMap.AutoMocking.Moq
 {
-    using global::StructureMap.AutoMocking;
+    using AutoMocking;
 
     public class MoqAutoMocker<T> : AutoMocker<T> where T: class
     {

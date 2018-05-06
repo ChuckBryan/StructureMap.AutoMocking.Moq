@@ -3,12 +3,15 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Chuck Bryan</Authors>
-    <Company>Palmetto Software</Company>
+    <Company>SwampyFox</Company>
     <Description>These are the main files from StructureMap to implement AutoMocking using MOQ. The repository had an outdated version of MOQ and the orginal developer wasn't interested in maintaining.</Description>
-    <PackageId>PalmettoSoft.StructureMap.AutoMocking.Moq</PackageId>
+    <PackageId>SwampyFox.StructureMap.AutoMocking.Moq</PackageId>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <NeutralLanguage></NeutralLanguage>
     <PackageProjectUrl>https://github.com/ChuckBryan/PalmettoSoft.StructureMap.AutoMocking.Moq</PackageProjectUrl>
+    <Version>1.0.1</Version>
+    <AssemblyName>StructureMap.AutoMocking.Moq</AssemblyName>
+    <RootNamespace>StructureMap.AutoMocking.Moq</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

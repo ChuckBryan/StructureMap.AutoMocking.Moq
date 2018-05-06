@@ -1,7 +1,7 @@
-﻿namespace PalmettoSoft.StructureMap.AutoMocking.Moq
+﻿namespace StructureMap.AutoMocking.Moq
 {
     using System;
-    using global::StructureMap.AutoMocking;
+    using AutoMocking;
 
     public class MoqServiceLocator : ServiceLocator
     {

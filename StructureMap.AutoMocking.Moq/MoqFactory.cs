@@ -1,4 +1,4 @@
-﻿namespace PalmettoSoft.StructureMap.AutoMocking.Moq
+﻿namespace StructureMap.AutoMocking.Moq
 {
     using System;
     using System.Reflection;

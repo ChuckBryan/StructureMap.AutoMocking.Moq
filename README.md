@@ -1,4 +1,4 @@
-# PalmettoSoft StructureMap AutoMocking for Moq
+# StructureMap AutoMocking for Moq
 StructureMap's AutoMocking feature is one of my favorite Unit Testing Tools. Consider that you are writing tests and your SUT has two dependencies: one you care about and one that you don't (e.g. logging). Normally, you would need to still create a mock of your logger so that you could satisfy the constuctor. Not with AutoMocking. Consider the following base class:
 ```c#
 public abstract class ForSut<TSut>  where TSut:class
