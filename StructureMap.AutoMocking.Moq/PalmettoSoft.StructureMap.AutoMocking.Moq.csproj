@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Chuck Bryan</Authors>
+    <Company>Palmetto Software</Company>
+    <Description>These are the main files from StructureMap to implement AutoMocking using MOQ. The repository had an outdated version of MOQ and the orginal developer wasn't interested in maintaining.</Description>
+    <PackageId>PalmettoSoft.StructureMap.AutoMocking.Moq</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <NeutralLanguage></NeutralLanguage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.8.2" />
+    <PackageReference Include="structuremap" Version="4.6.1" />
+  </ItemGroup>
+
+</Project>
