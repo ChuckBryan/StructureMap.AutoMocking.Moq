@@ -62,7 +62,7 @@ public class UnitTest1 : ForSut<SystemUnderTest>
 Using the helper GetMockFor, we can setup expectations on the mock dependency. Then, we call the method on the Sut that we are testing and then verify the expectations (in this case, that some dependency actually called the LoadData method.
 
 ### NuGet Feed ###
-[StructureMap AutoMocking Moq (Updated)(https://www.nuget.org/packages/StructureMap.AutoMocking.Moq.Updated/)
+[StructureMap AutoMocking Moq (Updated)](https://www.nuget.org/packages/StructureMap.AutoMocking.Moq.Updated/)
 
 **jeremydmiller's original package**
 [StructureMap AutoMocking Moq](https://www.nuget.org/packages/structuremap.automocking.moq/)
