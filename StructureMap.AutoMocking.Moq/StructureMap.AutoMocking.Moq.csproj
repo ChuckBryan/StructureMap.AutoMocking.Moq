@@ -5,7 +5,7 @@
     <Authors>Chuck Bryan</Authors>
     <Company>SwampyFox</Company>
     <Description>These are the main files from StructureMap to implement AutoMocking using MOQ. The repository had an outdated version of MOQ and the orginal developer wasn't interested in maintaining.</Description>
-    <PackageId>SwampyFox.StructureMap.AutoMocking.Moq</PackageId>
+    <PackageId>StructureMap.AutoMocking.Moq.Updated</PackageId>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <NeutralLanguage></NeutralLanguage>
     <PackageProjectUrl>https://github.com/ChuckBryan/PalmettoSoft.StructureMap.AutoMocking.Moq</PackageProjectUrl>
